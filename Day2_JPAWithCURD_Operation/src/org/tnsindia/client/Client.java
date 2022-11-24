@@ -29,8 +29,8 @@ public class Client {
 				case 1:
 				{
 					//create operation
-					customer.setCust_ID(104);
-					customer.setName("Namrata");
+					customer.setCust_ID(105);
+					customer.setName("Sandip");
 					customer.setProduct_price(800.10);
 					service.addCustomer(customer);
 					System.out.println("Customer added Successfully");
